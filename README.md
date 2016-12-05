@@ -4,8 +4,6 @@
 #Demo
 [Demo](https://react-nuxt-demo-rslweompbs.now.sh)
 
-#Github
-[Code]()
 
 #Run
 ```bash
